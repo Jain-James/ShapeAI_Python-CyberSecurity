@@ -1,0 +1,121 @@
+
+Enter the City Name: kochi
+_________________________________________________________
+Weather Stats for - KOCHI || 23 Jun 2021 | 01:47:18 PM
+_________________________________________________________
+Current Temperature         : 26.99 deg C
+Current Weather Description :  moderate rain
+Current Humidity            :  87 %
+Current Wind Speed          :  4.55 kmph
+**********************************************************
+
+
+Enter the City Name: varanasi
+_________________________________________________________
+Weather Stats for - VARANASI || 23 Jun 2021 | 01:48:52 PM
+_________________________________________________________
+Current Temperature         : 28.05 deg C
+Current Weather Description :  mist
+Current Humidity            :  89 %
+Current Wind Speed          :  0 kmph
+**********************************************************
+
+
+Enter the City Name: goa
+_________________________________________________________
+Weather Stats for - GOA || 23 Jun 2021 | 01:50:41 PM
+_________________________________________________________
+Current Temperature         : 28.21 deg C
+Current Weather Description :  overcast clouds
+Current Humidity            :  86 %
+Current Wind Speed          :  1.76 kmph
+**********************************************************
+
+
+Enter the City Name: punjab
+_________________________________________________________
+Weather Stats for - PUNJAB || 23 Jun 2021 | 01:52:18 PM
+_________________________________________________________
+Current Temperature         : 42.41 deg C
+Current Weather Description :  clear sky
+Current Humidity            :  13 %
+Current Wind Speed          :  3.06 kmph
+**********************************************************
+
+
+Enter the City Name: mumbai
+_________________________________________________________
+Weather Stats for - MUMBAI || 23 Jun 2021 | 01:53:41 PM
+_________________________________________________________
+Current Temperature         : 30.99 deg C
+Current Weather Description :  haze
+Current Humidity            :  74 %
+Current Wind Speed          :  5.66 kmph
+**********************************************************
+
+
+Enter the City Name: delhi
+_________________________________________________________
+Weather Stats for - DELHI || 23 Jun 2021 | 01:55:11 PM
+_________________________________________________________
+Current Temperature         : 38.05 deg C
+Current Weather Description :  haze
+Current Humidity            :  30 %
+Current Wind Speed          :  2.06 kmph
+**********************************************************
+
+
+Enter the City Name: lucknow
+_________________________________________________________
+Weather Stats for - LUCKNOW || 23 Jun 2021 | 01:56:29 PM
+_________________________________________________________
+Current Temperature         : 30.99 deg C
+Current Weather Description :  haze
+Current Humidity            :  84 %
+Current Wind Speed          :  0 kmph
+**********************************************************
+
+
+Enter the City Name: chennai
+_________________________________________________________
+Weather Stats for - CHENNAI || 23 Jun 2021 | 01:58:24 PM
+_________________________________________________________
+Current Temperature         : 29.98 deg C
+Current Weather Description :  haze
+Current Humidity            :  84 %
+Current Wind Speed          :  1.34 kmph
+**********************************************************
+
+
+Enter the City Name: bengaluru
+_________________________________________________________
+Weather Stats for - BENGALURU || 23 Jun 2021 | 02:00:22 PM
+_________________________________________________________
+Current Temperature         : 29.13 deg C
+Current Weather Description :  broken clouds
+Current Humidity            :  49 %
+Current Wind Speed          :  1.54 kmph
+**********************************************************
+
+
+Enter the City Name: jaipur
+_________________________________________________________
+Weather Stats for - JAIPUR || 23 Jun 2021 | 02:01:34 PM
+_________________________________________________________
+Current Temperature         : 34.62 deg C
+Current Weather Description :  haze
+Current Humidity            :  38 %
+Current Wind Speed          :  5.14 kmph
+**********************************************************
+
+
+Enter the City Name: srinagar
+_________________________________________________________
+Weather Stats for - SRINAGAR || 23 Jun 2021 | 02:02:51 PM
+_________________________________________________________
+Current Temperature         : 19.92 deg C
+Current Weather Description :  few clouds
+Current Humidity            :  63 %
+Current Wind Speed          :  6.11 kmph
+**********************************************************
+
